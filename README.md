@@ -4,5 +4,5 @@ VideoScale
 Video Geometric scaling 
 
 
-###只是显示图片  
-![github](http://github.com/unicorn.png "github")  
+###demo show
+![image](https://github.com/ZhuoxingGuo/VideoScale/raw/master/raw/Demo.gif)
