@@ -1,7 +1,7 @@
-VideoScale
+Android Video Scaling
 ==========
 
-Video Geometric scaling 
+How to zoom in and out on a android Video view .   
 
 
 ###只是显示图片  
